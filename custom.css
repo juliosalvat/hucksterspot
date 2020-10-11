@@ -1,0 +1,27 @@
+.wide {
+    max-width: 1200px;
+    height: auto;
+    padding:20px;
+    margin:5em auto;
+}
+
+.alert {
+  display: none;
+  text-align: center;
+  padding: 10px;
+  background-color: cadetblue;
+  color:white;
+  margin:10px;
+}
+
+.title {
+  color: cadetblue;
+}
+
+#newUser h1 {
+  color:cadetblue;
+}
+
+.btn-primary {
+  background-color:cadetblue;
+}
